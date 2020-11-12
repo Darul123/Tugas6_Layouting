@@ -31,9 +31,7 @@ header {
 }
 .z-object {
     position: absolute;
-    top: 72.2%;
-    left: 51.7%;
-    transform: translate(-50%, -50%);
+    left: 453px;
     z-index: 50;
 }
 .logo {
